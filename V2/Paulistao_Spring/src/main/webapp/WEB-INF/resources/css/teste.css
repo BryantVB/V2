@@ -1,0 +1,137 @@
+@charset "ISO-8859-1";
+
+
+body {
+	background-color: #76EAFF; 
+}
+.table_ground {
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+input[type=submit]{
+	border: 4px solid #434343;
+	color: black;
+	background-color: white;
+	border-radius: 4px;
+	font-size: 20px;
+}
+
+input[type=submit]:hover{
+	background-color: #434343;
+	color: white;
+}
+
+.input_data {
+	border : 3px solid black;
+	border-radius: 4px;
+	height: 30px;
+	width: 300px;
+	font-size: 20px;
+}
+
+.input_data_id {
+	border : 3px solid black;
+	border-radius: 4px;
+	height: 30px;
+	width: 50px;
+	font-size: 20px;
+}
+
+.input_data_date {
+	border : 3px solid black;
+	border-radius: 4px;
+	height: 30px;
+	width: 170px;
+	font-size: 20px;
+}
+
+.title {
+	font-size: 28px;
+	color: black;
+}
+
+.grupoA{
+	margin: auto;
+	width: 20%;
+	border: 7px solid gray;
+	border-radius: 50px;
+	padding-bottom: 20px;
+	box-shadow: 20px 20px 2px #766B5D;
+	background-color: #87CEFA;
+}
+
+.grupoB{
+	margin: auto;
+	width: 20%;
+	border: 7px solid gray;
+	border-radius: 50px;
+	padding-bottom: 20px;
+	box-shadow: 20px 20px 2px #766B5D;
+	background-color: #98FB98;
+}
+
+.grupoC{
+	margin: auto;
+	width: 20%;
+	border: 7px solid gray;
+	border-radius: 50px;
+	padding-bottom: 20px;
+	box-shadow: 20px 20px 2px #766B5D;
+	background-color: #F5DEB3;
+}
+
+.grupoD{
+	margin: auto;
+	width: 20%;
+	border: 7px solid gray;
+	border-radius: 50px;
+	padding-bottom: 20px;
+	box-shadow: 20px 20px 2px #766B5D;
+	background-color: #FF7F50;
+}
+
+
+
+.container {
+	margin: auto;
+	width: 50%;
+	border: 7px solid gray;
+	border-radius: 50px;
+	padding-bottom: 20px;
+	box-shadow: 20px 20px 2px #766B5D;
+}
+
+
+
+#menu ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	background-color: #DCDCDC;
+	font-size: 18px;
+}
+
+#menu ul li {
+	display: inline;
+}
+
+#menu ul li a{
+	font-size: 18px;
+	padding: 2px 10px;
+	display: inline-block;
+	background-color: #DCDCDC;
+	color: black;
+	text-decoration: none;
+	border-bottom: 3px solid #DCDCDC;
+	
+}
+
+#menu ul li a:hover{
+	font-size: 18px;
+	background-color: #A4A4A4;
+	color: white;
+	border-bottom: 3px solid red;
+}
+
+
